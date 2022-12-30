@@ -103,3 +103,6 @@ while opcao != 2:
         case 2:
             print('*************************** ENCERRANDO ***************************')
             os.system('')
+            
+        case _:
+            print('\nOPÇÃO INVÁLIDA!')
